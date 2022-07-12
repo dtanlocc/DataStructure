@@ -1,5 +1,5 @@
-#**`DATA STRUCTURE USING PYTHON`**
-###### *ĐÂY LÀ NHỮNG HÀM CƠ BẢN, CẦN TÌM HIỂU VÀ PHÁT TRIỂN THÊM NHỮNG HÀM KHÁC CỦA TỪNG CẤU TRÚC DỮ LIỆU*
+**`DATA STRUCTURE USING PYTHON`**
+###### *ĐÂY LÀ NHỮNG KIẾN THỨC CƠ BẢN, CẦN TÌM HIỂU VÀ PHÁT TRIỂN THÊM NHỮNG HÀM KHÁC CỦA TỪNG CẤU TRÚC DỮ LIỆU*
 
 * Linked List
   1.   Singly Linked List
